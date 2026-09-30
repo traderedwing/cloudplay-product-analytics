@@ -181,13 +181,13 @@ The experiment is fully synthetic and demonstrates experimentation methodology r
 
 ### Executive Overview
 
-![CloudPlay Executive Overview](images/executive_overview.png)
+![CloudPlay Executive Overview](images/Executive Overview.png)
 
 The executive dashboard summarizes revenue, paying users, new subscribers, monthly trends, and acquisition-channel performance.
 
 ### Product & Retention
 
-![CloudPlay Product and Retention Dashboard](images/product_retention.png)
+![CloudPlay Product and Retention Dashboard](images/Product & Retention.png)
 
 The product dashboard combines cohort gaming-activity retention with journey conversion and abandonment analysis.
 
